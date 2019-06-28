@@ -1,5 +1,5 @@
 # PACMAN Dev-C++
-FAST University Peshawar Campus
+FAST University Peshawar Campus \n
 Fall 2018
 CS217 Object Oriented Programming
 Grade A-
